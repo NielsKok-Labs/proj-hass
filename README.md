@@ -37,21 +37,21 @@ Raspberry Pi
 <table>
   <tr>
     <td align="center">
-      <img src="energy.gif" alt="Dashboard Demo" width="220"/>
+      <img src="energy.gif" alt="Dashboard Demo" width="280"/>
       <p>Dashboard</p>
     </td>
     <td align="center">
-      <img src="v1.gif" alt="Automation Demo" width="220"/>
+      <img src="v1.gif" alt="Automation Demo" width="280"/>
       <p>Floor 1</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="button.gif" alt="Buttons Demo" width="220"/>
+      <img src="buttons.gif" alt="Buttons Demo" width="280"/>
       <p>Buttons</p>
     </td>
     <td align="center">
-      <img src="fp.gif" alt="Floorplan Demo" width="220"/>
+      <img src="fp.gif" alt="Floorplan Demo" width="320"/>
       <p>Floorplan</p>
     </td>
   </tr>
