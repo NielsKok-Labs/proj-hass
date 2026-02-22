@@ -17,21 +17,6 @@ It includes a Plex media server, containerized services, and remote access via T
 
 ---
 
-## Architecture Overview
-
-Raspberry Pi
-│
-├─ Docker
-│ ├─ home-assistant
-│ ├─ plex
-│ └─ optional containers (Pi-hole, others)
-│
-└─ Network
-├─ VLAN / segmentation
-└─ Remote access via Tailscale VPN
-
----
-
 ## Demo GIFs
 
 <!-- Row 1: 3 GIFs side by side -->
