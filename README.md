@@ -34,16 +34,27 @@ Raspberry Pi
 
 ## Demo GIFs
 
-### Dashboard
-<img src="energy.gif" alt="Dashboard Demo" width="480"/>
-
-### Floor 1
-<img src="v1.gif" alt="Automation Demo" width="480"/>
-
-### Buttons
-<img src="buttons.gif" alt="Buttons Demo" width="480"/>
-
-### Floorplan
-<img src="fp.gif" alt="Floorplan Demo" width="480"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="energy.gif" alt="Dashboard Demo" width="220"/>
+      <p>Dashboard</p>
+    </td>
+    <td align="center">
+      <img src="v1.gif" alt="Automation Demo" width="220"/>
+      <p>Floor 1</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="button.gif" alt="Buttons Demo" width="220"/>
+      <p>Buttons</p>
+    </td>
+    <td align="center">
+      <img src="fp.gif" alt="Floorplan Demo" width="220"/>
+      <p>Floorplan</p>
+    </td>
+  </tr>
+</table>
 
 ---
