@@ -43,3 +43,7 @@ It includes a Plex media server, containerized services, and remote access via T
   <p>Floorplan</p>
 </div>
 ---
+<div align="center" style="margin-top:20px;">
+  <img src="hass.mp4" alt="HASS Demo" width="700"/>
+  <p>Floorplan</p>
+</div>
