@@ -39,7 +39,7 @@ It includes a Plex media server, containerized services, and remote access via T
 
 <!-- Row 2: Full-width GIF below -->
 <div align="center" style="margin-top:20px;">
-  <img src="flpl.gif" alt="Floorplan Demo" width="700"/>
+  <img src="flpl.gif" alt="Floorplan Demo" width="900"/>
   <p>Floorplan</p>
 </div>
 ---
