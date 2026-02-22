@@ -54,7 +54,7 @@ Raspberry Pi
 
 <!-- Row 2: Full-width GIF below -->
 <div align="center" style="margin-top:20px;">
-  <img src="fp.gif" alt="Floorplan Demo" width="680"/>
+  <img src="flpl.gif" alt="Floorplan Demo" width="700"/>
   <p>Floorplan</p>
 </div>
 ---
