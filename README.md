@@ -34,27 +34,27 @@ Raspberry Pi
 
 ## Demo GIFs
 
+<!-- Row 1: 3 GIFs side by side -->
 <table>
   <tr>
     <td align="center">
-      <img src="energy.gif" alt="Dashboard Demo" width="280"/>
+      <img src="energy.gif" alt="Dashboard Demo" width="200"/>
       <p>Dashboard</p>
     </td>
     <td align="center">
-      <img src="v1.gif" alt="Automation Demo" width="280"/>
+      <img src="v1.gif" alt="Automation Demo" width="200"/>
       <p>Floor 1</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="buttons.gif" alt="Buttons Demo" width="280"/>
+      <img src="buttons.gif" alt="Buttons Demo" width="200"/>
       <p>Buttons</p>
-    </td>
-    <td align="center">
-      <img src="fp.gif" alt="Floorplan Demo" width="320"/>
-      <p>Floorplan</p>
     </td>
   </tr>
 </table>
 
+<!-- Row 2: Full-width GIF below -->
+<div align="center" style="margin-top:20px;">
+  <img src="fp.gif" alt="Floorplan Demo" width="480"/>
+  <p>Floorplan</p>
+</div>
 ---
